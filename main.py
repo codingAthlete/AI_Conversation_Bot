@@ -1,0 +1,7 @@
+name = input("What is your name? ")
+print("Hello " + name + ". And my name is Kendall Ford ")
+input("Whats your favorite artist? ")
+print("Oh really? "" I'd say mine is a mix of Young Thug or Future, I like Jaydayoungan as well. ")
+movie = input("Any new movies you've been hooked on? I need something to pass the time. ")
+print( "Yeah, I heard of " + movie + " I'll check it out one day fasho.")
+print("Nice to meet you, I'll keep in touch")
